@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="entitites.intef.ComportamentoQuack"/>
+<fullyQualifiedTypeName name="entitites.PatoTipoQuack"/>
+<fullyQualifiedTypeName name="entitites.Pato"/>
+<fullyQualifiedTypeName name="entitites.QuackMudo"/>
+<fullyQualifiedTypeName name="implementacao.Observer"/>
+<fullyQualifiedTypeName name="implementacao.DisplayEmelent"/>
+<fullyQualifiedTypeName name="implementacao.Subject"/>
+<fullyQualifiedTypeName name="program.WeatherStattion"/>
+<fullyQualifiedTypeName name="entities.WeatherData"/>
+<fullyQualifiedTypeName name="entities.CurrentConditionsDisplay"/>
+</qualifiedTypeNameHistroy>
